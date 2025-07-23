@@ -1,0 +1,29 @@
+Client/create.sh
+cpd_sdk/client.py
+cpd_sdk/init.py
+cpd_sdk/README.md
+cpd_sdk/requirements.txt
+cpd_sdk/setup.py
+cpd_sdk/catalog/init.py
+cpd_sdk/catalog/models.py
+cpd_sdk/catalog/api/asset_lineage_api.py
+cpd_sdk/catalog/api/categories_api.py
+cpd_sdk/catalog/api/governance_artifact_types_api.py
+cpd_sdk/catalog/api/init.py
+cpd_sdk/dph/init.py
+cpd_sdk/dph/models.py
+cpd_sdk/dph/api/configuration_api.py
+cpd_sdk/dph/api/data_products_api.py
+cpd_sdk/dph/api/init.py
+cpd_sdk/software_hub/init.py
+cpd_sdk/software_hub/models.py
+cpd_sdk/software_hub/api/authorization_api.py
+cpd_sdk/software_hub/api/init.py
+cpd_sdk/software_hub/api/user_management_api.py
+__pycache__/client.cpython-39.pyc
+.ipynb_checkpoints/import-checkpoint.py
+.ipynb_checkpoints/API Automation with CPD-checkpoint.ipynb
+Lab/OLD-API Automation with CPD.ipynb
+Lab/temp.csv
+Techxchange.md
+.vscode/settings.json

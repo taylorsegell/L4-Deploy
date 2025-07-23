@@ -1,0 +1,11 @@
+__pycache__
+*.pyc
+*.ipynb_checkpoints
+*.ipynb_checkpoints_old
+*.ipynb_checkpoints_old_old
+
+.env
+dph-reference.md
+API Usage CPD.ipynb
+cpd_sdk/*
+Client/*
