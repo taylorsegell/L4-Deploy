@@ -28,3 +28,4 @@ Lab/temp.csv
 Techxchange.md
 .vscode/settings.json
 Lab/API Automation with CPD.ipynb
+*.DS_Store*
