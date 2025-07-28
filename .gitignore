@@ -27,4 +27,9 @@ Lab/OLD-API Automation with CPD.ipynb
 Lab/temp.csv
 Techxchange.md
 .vscode/settings.json
+<<<<<<< HEAD
 Lab/API Automation Lab.bak.ipynb
+=======
+Lab/API Automation with CPD.ipynb
+*.DS_Store*
+>>>>>>> d05fad00b60e9d28ace8ed6caded7da478ebff01
